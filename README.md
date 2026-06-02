@@ -228,4 +228,4 @@ Pull requests welcome. Please open an issue first for significant changes.
 
 ---
 
-*Maintained by Rahul Raj — [LinkedIn](https://linkedin.com/in/rahulraj) · [Hugging Face](https://huggingface.co/rahulraj)*
+*Maintained by Rahul Raj — [LinkedIn]((https://www.linkedin.com/in/rahulrajmba/)) 
